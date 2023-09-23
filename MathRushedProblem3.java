@@ -1,4 +1,4 @@
-public class MathRushed {
+public class MathRushedProblem3 {
 
     /**
      * @param args the command line arguments
