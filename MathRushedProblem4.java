@@ -7,6 +7,6 @@ public class MathRushed {
         double num1 = Math.ceil(6.55);
         
         System.out.println(num1);
-        // Output: 3.1072325059538586
+        // Output: 7.0
     }
 }
